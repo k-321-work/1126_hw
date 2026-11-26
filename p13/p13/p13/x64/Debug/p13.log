@@ -1,0 +1,10 @@
+﻿  p13.c
+C:\Users\calvin\Desktop\1125_hw\p13\p13\p13\p13.c(4,25): error C2143: 語法錯誤: 遺漏 ')' (在 '&' 之前)
+C:\Users\calvin\Desktop\1125_hw\p13\p13\p13\p13.c(4,25): error C2143: 語法錯誤: 遺漏 '{' (在 '&' 之前)
+C:\Users\calvin\Desktop\1125_hw\p13\p13\p13\p13.c(4,25): error C2059: 語法錯誤: '&'
+C:\Users\calvin\Desktop\1125_hw\p13\p13\p13\p13.c(4,31): error C2059: 語法錯誤: ')'
+C:\Users\calvin\Desktop\1125_hw\p13\p13\p13\p13.c(11,5): warning C4013: 'cubeByReference' 未定義; 假設 extern 傳回整數
+C:\Users\calvin\Desktop\1125_hw\p13\p13\p13\p13.c(18,25): error C2143: 語法錯誤: 遺漏 ')' (在 '&' 之前)
+C:\Users\calvin\Desktop\1125_hw\p13\p13\p13\p13.c(18,25): error C2143: 語法錯誤: 遺漏 '{' (在 '&' 之前)
+C:\Users\calvin\Desktop\1125_hw\p13\p13\p13\p13.c(18,25): error C2059: 語法錯誤: '&'
+C:\Users\calvin\Desktop\1125_hw\p13\p13\p13\p13.c(18,31): error C2059: 語法錯誤: ')'

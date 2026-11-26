@@ -1,0 +1,4 @@
+﻿  6.33.c
+C:\Users\calvin\Desktop\1125_hw\6.33\6.33\6.33\6.33.c(10,15): error C2057: 必須是常數運算式
+C:\Users\calvin\Desktop\1125_hw\6.33\6.33\6.33\6.33.c(10,15): error C2466: 無法配置常數大小為 0 的陣列，常數必須為大於 0 的整數
+C:\Users\calvin\Desktop\1125_hw\6.33\6.33\6.33\6.33.c(10,9): error C2133: 'array': 未知的大小
